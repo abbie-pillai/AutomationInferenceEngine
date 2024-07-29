@@ -1,5 +1,4 @@
-# AutomationInferenceEngine
-Peacock Automation Inference Engine
+#Peacock Automation Inference Engine
 
 I have built end to end data pipeline which automates inference and provides a querable dataset of inference results.
 In my inference code, I’ve automated the test of proportions for both difference and relative lift.
